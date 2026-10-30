@@ -1,0 +1,7 @@
+"supplier_id";"supplier_name";"contact_email";"city";"supplier_region";"lead_time_days"
+1;"TechSource India";"sales@techsource.example";"Pune";"West";4
+2;"FashionHub Supplies";"contact@fashionhub.example";"Mumbai";"West";6
+3;"HomeEssentials Co";"orders@homeessentials.example";"Delhi";"North";8
+4;"BeautyWorld Distributors";"sales@beautyworld.example";"Bengaluru";"South";5
+5;"ActiveGear Wholesale";"info@activegear.example";"Hyderabad";"South";7
+6;"Global Retail Supply";"support@globalretail.example";"Kolkata";"East";10
